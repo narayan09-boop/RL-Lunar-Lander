@@ -1,0 +1,24 @@
+# Virtual environment
+venv/
+
+# Trained models
+models/
+
+# Training logs
+logs/
+
+# Recordings
+recordings/
+test_recordings/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+dist/
+build/
+
+# IDE
+.vscode/
+.idea/
